@@ -1,0 +1,421 @@
+﻿Log file open, 08/16/16 00:23:44
+LogInit:Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1123367048) SRandInit(-1123367048).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.148355
+LogPluginManager: Loaded Plugin Paper2D, From D:/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From D:/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3072953
+LogInit: Engine Version: 4.13.0-3072953+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3072953+++UE4+Release-4.13
+LogInit: Net CL: 3072953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 4
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 5
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Aug  2 2016 02:09:21
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: D:/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.08.16-07.23.45:296][  0]LogConsoleManager:Display: Setting the console variable 'r.RHICmdBypass' with 'SetByProjectSetting' was ignored as it is lower priority than the previous 'SetBySystemSettingsIni'
+[2016.08.16-07.23.45:302][  0]LogConsoleManager:Warning: Setting the console variable 'r.PostProcessAAQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:302][  0]LogConsoleManager:Warning: Setting the console variable 'r.MotionBlurQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:302][  0]LogConsoleManager:Warning: Setting the console variable 'r.AmbientOcclusionLevels' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:302][  0]LogConsoleManager:Warning: Setting the console variable 'r.DepthOfFieldQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:302][  0]LogConsoleManager:Warning: Setting the console variable 'r.LensFlareQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:303][  0]LogConsoleManager:Warning: Setting the console variable 'r.SceneColorFringeQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:303][  0]LogConsoleManager:Warning: Setting the console variable 'r.BloomQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:303][  0]LogConsoleManager:Warning: Setting the console variable 'r.FastBlurThreshold' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:303][  0]LogConsoleManager:Warning: Setting the console variable 'r.MaxAnisotropy' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:303][  0]LogConsoleManager:Warning: Setting the console variable 'r.TranslucencyLightingVolumeDim' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:303][  0]LogConsoleManager:Warning: Setting the console variable 'r.SSR.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:303][  0]LogConsoleManager:Warning: Setting the console variable 'r.SceneColorFormat' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:303][  0]LogConsoleManager:Warning: Setting the console variable 'r.TranslucencyVolumeBlur' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'
+[2016.08.16-07.23.45:303][  0]LogInit: Selected Device Profile: [Windows]
+[2016.08.16-07.23.45:303][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.08.16-07.23.45:365][  0]LogInit: Computer: DESKTOP-EO5RCL8
+[2016.08.16-07.23.45:365][  0]LogInit: User: PC
+[2016.08.16-07.23.45:365][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.08.16-07.23.45:365][  0]LogInit: High frequency timer resolution =2.531255 MHz
+[2016.08.16-07.23.45:366][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.08.16-07.23.45:366][  0]LogMemory: Platform Memory Stats for Windows
+[2016.08.16-07.23.45:366][  0]LogMemory: Process Physical Memory: 256.08 MB used, 256.08 MB peak
+[2016.08.16-07.23.45:366][  0]LogMemory: Process Virtual Memory: 259.96 MB used, 259.96 MB peak
+[2016.08.16-07.23.45:366][  0]LogMemory: Physical Memory: 5286.77 MB used, 16282.54 MB total
+[2016.08.16-07.23.45:366][  0]LogMemory: Virtual Memory: 618.85 MB used, 134217728.00 MB total
+[2016.08.16-07.23.45:465][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.08.16-07.23.47:704][  0]LogD3D11RHI: D3D11 adapters:
+[2016.08.16-07.23.47:783][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2016.08.16-07.23.47:783][  0]LogD3D11RHI:       4064/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.08.16-07.23.47:803][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2016.08.16-07.23.47:803][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2016.08.16-07.23.47:808][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.08.16-07.23.47:808][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.08.16-07.23.47:808][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.08.16-07.23.47:822][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.08.16-07.23.47:822][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2016.08.16-07.23.47:822][  0]LogWindows: EnumDisplayDevices:
+[2016.08.16-07.23.47:822][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2016.08.16-07.23.47:823][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2016.08.16-07.23.47:824][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2016.08.16-07.23.47:825][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2016.08.16-07.23.47:825][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2016.08.16-07.23.47:825][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2016.08.16-07.23.47:825][  0]LogD3D11RHI:      Driver Date: Unknown
+[2016.08.16-07.23.47:825][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.08.16-07.23.47:865][  0]LogD3D11RHI: Async texture creation enabled
+[2016.08.16-07.23.47:884][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.08.16-07.23.47:885][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../UnrealProjects/MyProject/Intermediate/Shaders/WorkingDirectory/1276/).
+[2016.08.16-07.23.47:886][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/73FA2F944639E097EBE658A5F09FA792/'.
+[2016.08.16-07.23.47:886][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.08.16-07.23.50:878][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.08.16-07.23.50:904][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.08.16-07.23.50:929][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.08.16-07.23.50:955][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.08.16-07.23.50:980][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.08.16-07.23.51:003][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.08.16-07.23.51:025][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.08.16-07.23.51:047][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.08.16-07.23.51:069][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.08.16-07.23.51:093][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.08.16-07.23.51:115][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.08.16-07.23.51:163][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.08.16-07.23.51:163][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.08.16-07.23.51:167][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.08.16-07.23.51:211][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.08.16-07.23.51:233][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.08.16-07.23.51:256][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.08.16-07.23.51:278][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.08.16-07.23.51:299][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.08.16-07.23.51:322][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.08.16-07.23.51:322][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.08.16-07.23.51:567][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.08.16-07.23.51:744][  0]LogDerivedDataCache: Loaded boot cache 0.18s 64MB C:/Users/PC/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.08.16-07.23.51:744][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/PC/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.08.16-07.23.51:745][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealProjects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.08.16-07.23.51:745][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.08.16-07.23.51:745][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealProjects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.08.16-07.23.51:745][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.08.16-07.23.51:807][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.08.16-07.23.51:831][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.08.16-07.23.52:499][  0]LogInit: Selected Device Profile: [Windows]
+[2016.08.16-07.23.52:500][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.08.16-07.23.52:622][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.08.16-07.23.53:038][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.08.16-07.23.53:038][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.08.16-07.23.53:038][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.08.16-07.23.53:880][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3072953, ProjectName: myproject, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2234314750
+[2016.08.16-07.23.53:961][  0]LogAssetRegistry: FAssetRegistry took 0.0223 seconds to start up
+[2016.08.16-07.23.54:122][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.150540 seconds
+[2016.08.16-07.23.54:137][  0]LogUObjectArray: 29486 objects as part of root set at end of initial load.
+[2016.08.16-07.23.54:137][  0]LogUObjectAllocator: 6029096 out of 0 bytes used by permanent object pool.
+[2016.08.16-07.23.54:137][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.08.16-07.23.54:157][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.08.16-07.23.54:783][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.08.16-07.23.54:783][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.08.16-07.23.57:724][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.08.16-07.23.58:541][  0]SourceControl: Info Source control is disabled
+[2016.08.16-07.23.58:761][  0]SourceControl: Info Source control is disabled
+[2016.08.16-07.23.58:795][  0]SourceControl: Info Source control is disabled
+[2016.08.16-07.23.58:833][  0]SourceControl: Info Source control is disabled
+[2016.08.16-07.24.00:054][  0]LogEngine: Initializing Engine...
+[2016.08.16-07.24.00:142][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2016.08.16-07.24.00:732][  0]LogRenderer:Warning: Mismatch between bShouldGenerateLowQualityLightmaps(0) and r.SupportLowQualityLightmaps(1), UEngine::bShouldGenerateLowQualityLightmaps has been deprecated please use r.SupportLowQualityLightmaps instead
+[2016.08.16-07.24.00:765][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.08.16-07.24.00:783][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.08.16-07.24.00:830][  0]LogInit: FAudioDevice initialized.
+[2016.08.16-07.24.00:925][  0]LogDerivedDataCache: Saved boot cache 0.10s 64MB C:/Users/PC/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.08.16-07.24.00:949][  0]LogInit: Texture streaming: Enabled
+[2016.08.16-07.24.01:062][  0]LogInit: Transaction tracking system initialized
+[2016.08.16-07.24.01:160][  0]BlueprintLog: New page: Editor Load
+[2016.08.16-07.24.01:447][  0]LocalizationService: Info Localization service is disabled
+[2016.08.16-07.24.02:370][  0]LogConsoleResponse:Display: 
+[2016.08.16-07.24.02:756][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.08.16-07.24.02:757][  0]LogCook:Display: Mobile HDR setting 1
+[2016.08.16-07.24.03:241][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/MyProject/Content/' took 0.02s
+[2016.08.16-07.24.03:241][  0]SourceControl: Info Source control is disabled
+[2016.08.16-07.24.03:241][  0]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/MyProject/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.08.16-07.24.03:243][  0]LightingResults: New page: Lighting Build
+[2016.08.16-07.24.03:249][  0]MapCheck: New page: Map Check
+[2016.08.16-07.24.03:249][  0]LightingResults: New page: Lighting Build
+[2016.08.16-07.24.05:240][  0]LogRenderer:Warning: Mismatch between bShouldGenerateLowQualityLightmaps(0) and r.SupportLowQualityLightmaps(1), UEngine::bShouldGenerateLowQualityLightmaps has been deprecated please use r.SupportLowQualityLightmaps instead
+[2016.08.16-07.24.05:240][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.08.16-07.24.05:271][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.08.16-07.24.05:273][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.08.16-07.24.05:550][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 276.472ms to complete.
+[2016.08.16-07.24.05:550][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 2.309
+[2016.08.16-07.24.05:827][  0]LogCollectionManager: Loaded 0 collections in 0.006549 seconds
+[2016.08.16-07.24.05:882][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/MyProject/Saved/Collections/' took 0.01s
+[2016.08.16-07.24.05:882][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/MyProject/Content/Developers/PC/Collections/' took 0.01s
+[2016.08.16-07.24.05:882][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/MyProject/Content/Collections/' took 0.01s
+[2016.08.16-07.24.05:882][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000006 seconds
+[2016.08.16-07.24.05:909][  0]LogContentBrowser: Native class hierarchy populated in 0.0264 seconds. Added 2140 classes and 413 folders.
+[2016.08.16-07.24.05:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.08.16-07.24.05:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.08.16-07.24.05:919][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0015 seconds. Added 12 classes and 0 folders.
+[2016.08.16-07.24.05:931][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2016.08.16-07.24.06:000][  0]LogFeaturePack:Warning: Error in Feature pack D:/Epic Games/4.13/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Comma token expected, but not found. Line: 31 Ch: 13
+[2016.08.16-07.24.06:109][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2016.08.16-07.24.06:121][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2016.08.16-07.24.06:294][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.08.16-07.24.06:308][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.08.16-07.24.06:344][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2016.08.16-07.24.06:345][  0]LogLoad: (Engine Initialization) Total time: 23.90 seconds
+[2016.08.16-07.24.06:345][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.55 seconds
+[2016.08.16-07.24.06:345][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.08.16-07.24.06:345][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.08.16-07.24.06:355][  0]LogOcInput: OculusInput pre-init called
+[2016.08.16-07.24.06:401][  0]LogContentStreaming: Texture pool size now 800 MB
+[2016.08.16-07.24.06:842][  0]LogRenderer: Reallocating scene render targets to support 964x436 (Frame:2).
+[2016.08.16-07.24.07:310][  4]LogAssetRegistry: Asset discovery search completed in 13.3711 seconds
+[2016.08.16-07.24.07:310][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.08.16-07.24.07:310][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2016.08.16-07.46.13:810][983]LogRenderer:Warning: Mismatch between bShouldGenerateLowQualityLightmaps(0) and r.SupportLowQualityLightmaps(1), UEngine::bShouldGenerateLowQualityLightmaps has been deprecated please use r.SupportLowQualityLightmaps instead
+[2016.08.16-07.46.13:850][984]LogRenderer:Warning: Mismatch between bShouldGenerateLowQualityLightmaps(0) and r.SupportLowQualityLightmaps(1), UEngine::bShouldGenerateLowQualityLightmaps has been deprecated please use r.SupportLowQualityLightmaps instead
+[2016.08.16-07.46.18:243][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:244][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:246][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:247][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:248][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:249][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:250][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:251][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:253][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:254][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:255][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:256][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:257][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:258][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:259][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:261][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:262][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:263][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:264][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:265][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:266][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:267][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:268][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:269][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:270][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:270][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:271][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:271][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:271][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:272][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:272][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:273][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:273][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:274][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:274][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:275][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:275][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:275][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:276][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:276][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.08.16-07.46.18:325][226]LogEditorActor: Deleted 40 Actors (0.085 secs)
+[2016.08.16-07.46.20:435][335]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume3)
+[2016.08.16-07.46.34:582][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:583][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:584][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:584][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:585][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:585][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:587][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:588][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:589][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:590][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:591][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:592][ 64]LogEditorActor: Deleted Actor: NavModifierVolume
+[2016.08.16-07.46.34:617][ 64]LogEditorActor: Deleted 12 Actors (0.038 secs)
+[2016.08.16-07.47.01:203][526]LogSavePackage: Save=1300.99ms
+[2016.08.16-07.47.01:203][526]LogSavePackage: Moving '../../../../../UnrealProjects/MyProject/Saved/MotionControllerMap_Auto1BE70EEE940DE02BA22260FA826E2AF86.tmp' to '../../../../../UnrealProjects/MyProject/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2016.08.16-07.47.01:208][526]LogSavePackage:Display: Finished SavePackage ../../../../../UnrealProjects/MyProject/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap
+[2016.08.16-07.47.01:247][526]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 1.834
+[2016.08.16-07.47.01:247][526]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.834
+[2016.08.16-07.47.56:012][757]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2016.08.16-07.47.56:515][757]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2016.08.16-07.47.56:628][757]LogMaterial:Warning: Material /Game/Geometry/Meshes/CubeMaterial.CubeMaterial needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2016.08.16-07.47.56:635][757]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2016.08.16-07.47.56:763][757]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.08.16-07.47.56:928][757]LogRenderer:Warning: Mismatch between bShouldGenerateLowQualityLightmaps(0) and r.SupportLowQualityLightmaps(1), UEngine::bShouldGenerateLowQualityLightmaps has been deprecated please use r.SupportLowQualityLightmaps instead
+[2016.08.16-07.47.57:014][758]LogRenderer:Warning: Mismatch between bShouldGenerateLowQualityLightmaps(0) and r.SupportLowQualityLightmaps(1), UEngine::bShouldGenerateLowQualityLightmaps has been deprecated please use r.SupportLowQualityLightmaps instead
+[2016.08.16-07.48.06:511][131]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.08.16-07.48.06:512][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.08.16-07.48.06:513][131]PIE: New page: PIE session: MotionControllerMap (Aug 15, 2016, 4:48:06 PM)
+[2016.08.16-07.48.06:513][131]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2016.08.16-07.48.06:530][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016640s)
+[2016.08.16-07.48.06:531][131]LogRenderer:Warning: Mismatch between bShouldGenerateLowQualityLightmaps(0) and r.SupportLowQualityLightmaps(1), UEngine::bShouldGenerateLowQualityLightmaps has been deprecated please use r.SupportLowQualityLightmaps instead
+[2016.08.16-07.48.06:532][131]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.08.16-07.48.06:533][131]LogPlayLevel: PIE: World Init took: (0.002958s)
+[2016.08.16-07.48.06:533][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.020433s)
+[2016.08.16-07.48.06:603][131]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.08.16-07.48.06:644][131]LogInit: FAudioDevice initialized.
+[2016.08.16-07.48.06:869][131]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.08.16-07.48.06:869][131]LogWorld: Game class is 'GameMode'
+[2016.08.16-07.48.06:890][131]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2016.08.16-00.48.06
+[2016.08.16-07.48.06:893][131]LogWorld: Bringing up level for play took: 0.018560
+[2016.08.16-07.48.06:907][131]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0023 seconds. Added 11 classes and 0 folders.
+[2016.08.16-07.48.06:907][131]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.08.16-07.48.06:907][131]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.08.16-07.48.06:907][131]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.08.16-07.48.07:105][131]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.08.16-07.48.07:105][131]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.067
+[2016.08.16-07.48.07:106][131]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.08.16-07.48.10:441][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.08.16-07.48.10:685][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.08.16-07.48.12:876][305]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2016.08.16-07.48.21:164][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.08.16-07.48.21:165][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.08.16-07.48.21:165][570]PIE: New page: PIE session: MotionControllerMap (Aug 15, 2016, 4:48:21 PM)
+[2016.08.16-07.48.21:165][570]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2016.08.16-07.48.21:180][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015217s)
+[2016.08.16-07.48.21:182][570]LogRenderer:Warning: Mismatch between bShouldGenerateLowQualityLightmaps(0) and r.SupportLowQualityLightmaps(1), UEngine::bShouldGenerateLowQualityLightmaps has been deprecated please use r.SupportLowQualityLightmaps instead
+[2016.08.16-07.48.21:182][570]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.08.16-07.48.21:183][570]LogPlayLevel: PIE: World Init took: (0.002446s)
+[2016.08.16-07.48.21:183][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.018315s)
+[2016.08.16-07.48.21:268][570]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.08.16-07.48.21:305][570]LogInit: FAudioDevice initialized.
+[2016.08.16-07.48.21:359][570]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.08.16-07.48.21:359][570]LogWorld: Game class is 'GameMode'
+[2016.08.16-07.48.21:378][570]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2016.08.16-00.48.21
+[2016.08.16-07.48.21:380][570]LogWorld: Bringing up level for play took: 0.018034
+[2016.08.16-07.48.21:383][570]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.08.16-07.48.21:383][570]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.08.16-07.48.21:383][570]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.08.16-07.48.21:566][570]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.08.16-07.48.21:566][570]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.528
+[2016.08.16-07.48.21:567][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.08.16-07.48.26:192][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.08.16-07.48.26:314][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.08.16-07.48.32:073][913]LogEditorViewport: Clicking on Actor (LMB): Board_C (Board)
+[2016.08.16-07.48.33:305][961]Cmd: DELETE
+[2016.08.16-07.48.33:305][961]Cmd: ACTOR DELETE
+[2016.08.16-07.48.33:310][961]LogEditorActor: Deleted Actor: Board_C
+[2016.08.16-07.48.33:349][961]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2016.08.16-07.48.33:984][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2016.08.16-07.48.34:646][ 15]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2016.08.16-07.48.35:084][ 27]Cmd: DELETE
+[2016.08.16-07.48.35:084][ 27]Cmd: ACTOR DELETE
+[2016.08.16-07.48.35:087][ 27]LogEditorActor: Deleted Actor: MotionControllerPawn_C
+[2016.08.16-07.48.35:177][ 27]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2016.08.16-07.57.11:602][632]LogSavePackage: Save=550.65ms
+[2016.08.16-07.57.11:602][632]LogSavePackage: Moving '../../../../../UnrealProjects/MyProject/Saved/MotionControllerMap_Auto20626F1574DD17637E192E68BF9B93C6E.tmp' to '../../../../../UnrealProjects/MyProject/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2016.08.16-07.57.11:607][632]LogSavePackage:Display: Finished SavePackage ../../../../../UnrealProjects/MyProject/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap
+[2016.08.16-07.57.11:620][632]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.681
+[2016.08.16-07.57.11:620][632]LogFileHelpers: Edito
